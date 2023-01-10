@@ -2,3 +2,4 @@ sympy
 numpy
 ipython
 ipykernel
+matplotlib
